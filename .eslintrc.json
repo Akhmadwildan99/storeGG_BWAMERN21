@@ -12,7 +12,7 @@
         "ecmaFeatures": {
             "jsx": true
         },
-        "ecmaVersion": 12,
+        "ecmaVersion": 2018,
         "sourceType": "module"
     },
     "plugins": [
@@ -22,7 +22,6 @@
     "rules": {
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", "tsx"] }],
         "react/react-in-jsx-scope": "off",
-        "arrow-body-style": ["error", "always"],
         "react/jsx-indent": "off",
         "react/jsx-props-no-spreading": [1, {
             "html": "ignore" ,
