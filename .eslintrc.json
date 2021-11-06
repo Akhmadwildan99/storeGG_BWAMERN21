@@ -28,6 +28,8 @@
             "custom": "ignore",
             "explicitSpread": "ignore",
             "exceptions": ["pageProps"]
-        }]  
+        }],
+        "linebreak-style": "off"
+
     }
 }
