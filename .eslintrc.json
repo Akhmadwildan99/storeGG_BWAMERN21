@@ -29,7 +29,8 @@
             "explicitSpread": "ignore",
             "exceptions": ["pageProps"]
         }],
-        "linebreak-style": "off"
+        "linebreak-style": "off",
+        "import/extensions": "never"
 
     }
 }
